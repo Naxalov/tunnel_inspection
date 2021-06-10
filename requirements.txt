@@ -1,0 +1,8 @@
+Pillow
+open3d
+numpy
+scipy
+opencv-python
+shapely
+matplotlib
+# py360convert
